@@ -16,13 +16,11 @@ Main task is to develop strategies for ILIAS Software-Engineering within the gen
  
 Aware that many areas cannot be considered separate but rather holistic, the Technical Board is split in the following five fields of activity.
  
-
-    Software Architecture
-    Performance
-    Security
-    Usability
-    Quality Assurance and Development Process
-
+* Software Architecture
+* Performance
+* Security
+* Usability
+* Quality Assurance and Development Process
  
 This text describes the specific tasks in the different fields of work and sets possible guidelines to adapt optimally to the needs of the growing ILIAS community.
  
